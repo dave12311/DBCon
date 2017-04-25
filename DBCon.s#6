@@ -625,23 +625,23 @@ wide body 7.5 mm/JEDEC MO-119AA</description>
 <instance part="CD74HC4067M_2" gate="G$1" x="101.6" y="-2.54"/>
 <instance part="GND" gate="G$1" x="132.08" y="-12.7"/>
 <instance part="3.3V" gate="G$1" x="132.08" y="-7.62"/>
-<instance part="M1" gate="G$1" x="132.08" y="-27.94"/>
-<instance part="M2" gate="G$1" x="132.08" y="-30.48"/>
-<instance part="M3" gate="G$1" x="132.08" y="-33.02"/>
-<instance part="M4" gate="G$1" x="132.08" y="-35.56"/>
-<instance part="M5" gate="G$1" x="132.08" y="-38.1"/>
-<instance part="M6" gate="G$1" x="132.08" y="-43.18"/>
-<instance part="M7" gate="G$1" x="132.08" y="-45.72"/>
-<instance part="M8" gate="G$1" x="132.08" y="-48.26"/>
-<instance part="M9" gate="G$1" x="132.08" y="-50.8"/>
-<instance part="M10" gate="G$1" x="132.08" y="-53.34"/>
-<instance part="M11" gate="G$1" x="132.08" y="-55.88"/>
-<instance part="M12" gate="G$1" x="132.08" y="-60.96"/>
-<instance part="M13" gate="G$1" x="132.08" y="-63.5"/>
-<instance part="M14" gate="G$1" x="132.08" y="-66.04"/>
-<instance part="M15" gate="G$1" x="132.08" y="-68.58"/>
-<instance part="STR" gate="G$1" x="132.08" y="-73.66"/>
-<instance part="STP" gate="G$1" x="132.08" y="-76.2"/>
+<instance part="M1" gate="G$1" x="175.26" y="-35.56"/>
+<instance part="M2" gate="G$1" x="175.26" y="-38.1"/>
+<instance part="M3" gate="G$1" x="175.26" y="-40.64"/>
+<instance part="M4" gate="G$1" x="175.26" y="-43.18"/>
+<instance part="M5" gate="G$1" x="175.26" y="-45.72"/>
+<instance part="M6" gate="G$1" x="175.26" y="-50.8"/>
+<instance part="M7" gate="G$1" x="175.26" y="-53.34"/>
+<instance part="M8" gate="G$1" x="175.26" y="-55.88"/>
+<instance part="M9" gate="G$1" x="175.26" y="-58.42"/>
+<instance part="M10" gate="G$1" x="175.26" y="-60.96"/>
+<instance part="M11" gate="G$1" x="175.26" y="-63.5"/>
+<instance part="M12" gate="G$1" x="175.26" y="-68.58"/>
+<instance part="M13" gate="G$1" x="175.26" y="-71.12"/>
+<instance part="M14" gate="G$1" x="175.26" y="-73.66"/>
+<instance part="M15" gate="G$1" x="175.26" y="-76.2"/>
+<instance part="STR" gate="G$1" x="175.26" y="-81.28"/>
+<instance part="STP" gate="G$1" x="175.26" y="-83.82"/>
 <instance part="L1" gate="G$1" x="132.08" y="86.36"/>
 <instance part="L2" gate="G$1" x="132.08" y="83.82"/>
 <instance part="L3" gate="G$1" x="132.08" y="81.28"/>
@@ -673,8 +673,8 @@ wide body 7.5 mm/JEDEC MO-119AA</description>
 <instance part="R14" gate="G$1" x="132.08" y="5.08"/>
 <instance part="R15" gate="G$1" x="132.08" y="2.54"/>
 <instance part="B1" gate="G$1" x="-45.72" y="-60.96"/>
-<instance part="LP" gate="G$1" x="132.08" y="-78.74"/>
-<instance part="RC" gate="G$1" x="132.08" y="-81.28"/>
+<instance part="LP" gate="G$1" x="175.26" y="-86.36"/>
+<instance part="RC" gate="G$1" x="175.26" y="-88.9"/>
 </instances>
 <busses>
 </busses>

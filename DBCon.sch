@@ -1021,11 +1021,11 @@ package type P</description>
 <net name="CLK" class="0">
 <segment>
 <pinref part="SN74HC163D_1" gate="G$1" pin="CLK"/>
-<wire x1="22.86" y1="38.1" x2="22.86" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="55.88" x2="35.56" y2="55.88" width="0.1524" layer="91"/>
 <label x="22.86" y="12.7" size="1.778" layer="95" rot="R90"/>
-<pinref part="B1" gate="G$1" pin="A3"/>
-<wire x1="-30.48" y1="38.1" x2="22.86" y2="38.1" width="0.1524" layer="91"/>
+<pinref part="B1" gate="G$1" pin="*10"/>
+<wire x1="-30.48" y1="20.32" x2="22.86" y2="20.32" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="20.32" x2="22.86" y2="55.88" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="A" class="0">
